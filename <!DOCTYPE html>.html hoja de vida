@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <img width="400px" height="100px"
+         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPXmV8qqPXBdkpmQ6ltg9LhFpzKK7knL-urILwH--g1EqtE828AH-kkxH&s=10" alt="">
+   
+    <h1>Juan Medina</h1>
+    <h2>Futuro Coder</h2>
+     <p>correo: <a href="mailto:futurocoerder1@hotmail.com">futurocoerder1@hotmail.com</a></p>   
+     <p><a href="tel:+573023501234">3023501234</a></p>
+<h2>Perfil Profesional</h2>
+<p>he sido bartender, logistica y NAF aduanero</p>
+    <section>
+        <ol>
+            <li>tengo pynthon</li>
+            <li>tengo java</li>
+            <li>c++</li>
+            <li>tengo HTML</li>
+        </ol>
+     </section>   
+     
+    <h2>EXP LABORAL & ESTUDIUOS</h2>
+    <p>4 años de trabajo y Profesional en Negocios Internacionales</p> 
+    <h2>hobbits</h2>
+    <p>Guitarra electrcica, bajo, piano y guitarra acusticas</p>
+    <h2>cualidades</h2>
+    
+    <section><li>responsables</li>
+        <li>sociable</li>
+        <li>deportista</li>
+    </section><p></p>
+    </main>
+</body>
+</html>
